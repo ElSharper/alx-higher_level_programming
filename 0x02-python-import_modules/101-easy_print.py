@@ -1,3 +1,2 @@
 #!/usr/bin/python3
-import builtins
-builtins.print("#pythoniscool")
+__import__('easy_print')
